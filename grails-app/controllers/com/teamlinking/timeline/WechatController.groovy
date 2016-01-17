@@ -1,4 +1,4 @@
-package com.teamlinking
+package com.teamlinking.timeline
 
 import com.teamlinking.timeline.common.Constans
 import com.teamlinking.timeline.wechat.MessageRouterService

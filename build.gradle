@@ -79,11 +79,6 @@ dependencies {
     // fastjson
     compile 'com.alibaba:fastjson:1.2.6'
 
-    // shiro
-    compile "org.apache.shiro:shiro-core:1.2.3"
-    compile "org.apache.shiro:shiro-web:1.2.3"
-    compile "org.apache.shiro:shiro-spring:1.2.3"
-
     // mysql
     runtime 'mysql:mysql-connector-java:5.1.34'
 
